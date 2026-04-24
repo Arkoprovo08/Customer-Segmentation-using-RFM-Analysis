@@ -132,5 +132,4 @@ This project demonstrates how **machine learning + business rules** can be combi
 
 ## Author
 Arkoprovo Ghosh
-Arkoprovo Ghosh  
 Data Science & Machine Learning Enthusiast
