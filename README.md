@@ -1,13 +1,13 @@
-# 🧠 Customer Segmentation using RFM Analysis and K-Means Clustering
+# Customer Segmentation using RFM Analysis and K-Means Clustering
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on **customer segmentation using RFM (Recency, Frequency, Monetary) analysis combined with K-Means clustering and rule-based refinement**.  
 The goal is to identify different customer groups to support **targeted marketing strategies, churn reduction, and revenue optimization**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand customer purchasing behavior using RFM metrics
 - Segment customers using unsupervised machine learning (K-Means)
@@ -21,7 +21,7 @@ The goal is to identify different customer groups to support **targeted marketin
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains transactional retail data with the following features:
 
@@ -36,7 +36,7 @@ The dataset contains transactional retail data with the following features:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 - Removed null Customer IDs
@@ -69,15 +69,15 @@ For each customer:
 ### 5. Business Rule-Based Segmentation
 Enhanced clustering results with domain rules to identify:
 
-- 🔴 At Risk Customers  
-- 🟢 High Value Customers  
-- 🟡 Regular Customers  
-- 🔥 Lost High Value Customers  
-- ⭐ Potential High Value Customers  
+-  At Risk Customers  
+-  High Value Customers  
+-  Regular Customers  
+-  Lost High Value Customers  
+-  Potential High Value Customers  
 
 ---
 
-## 📈 Key Visualizations
+## Key Visualizations
 
 - Customer segment distribution
 - Recency, Frequency, Monetary boxplots
@@ -87,7 +87,7 @@ Enhanced clustering results with domain rules to identify:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Majority of customers fall under **At Risk and Regular segments**
 - Small group of **High Value customers contributes major revenue**
@@ -96,7 +96,7 @@ Enhanced clustering results with domain rules to identify:
 
 ---
 
-## 🧠 Business Impact
+## Business Impact
 
 - Improve customer retention strategies
 - Reduce churn using targeted campaigns
@@ -105,9 +105,9 @@ Enhanced clustering results with domain rules to identify:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-- Python 🐍
+- Python 
 - Pandas / NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
@@ -115,7 +115,7 @@ Enhanced clustering results with domain rules to identify:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Deploy model using FastAPI / Streamlit
 - Add real-time customer scoring system
@@ -124,13 +124,13 @@ Enhanced clustering results with domain rules to identify:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates how **machine learning + business rules** can be combined to build an effective customer segmentation system that is both **data-driven and business-actionable**.
 
 ---
 
-## 👨‍💻 Author
-
+## Author
+Arkoprovo Ghosh
 Arkoprovo Ghosh  
 Data Science & Machine Learning Enthusiast
